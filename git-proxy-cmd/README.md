@@ -1,6 +1,6 @@
 # [How to] วิธีการตั้งค่า Git บน Windows ให้ใช้งานผ่าน Proxy
 
-![](./Git-Logo-2Color.webp)
+![alt Git-Logo-2Color](https://raw.githubusercontent.com/adison-meesin/md-file/main/git-proxy-cmd/Git-Logo-2Color.webp)
 
 # List of contents
 
