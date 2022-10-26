@@ -1,4 +1,4 @@
 [
-  {name: 'Git proxy comand', path: 'git-proxy-cmd'}
-  ,{name: 'What is websocket', path: 'what-is-websocket'}
+  { "name": "Git proxy comand", "path": "git-proxy-cmd"}
+  ,{ "name": "What is websocket", "path": "what-is-websocket"}
 ]
