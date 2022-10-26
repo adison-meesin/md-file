@@ -6,5 +6,9 @@
     {
         "name": "What is websocket",
         "path": "what-is-websocket"
+    },
+    {
+        "name": "สร้าง API Todo ด้วย Golang",
+        "path": "api-todo-golang"
     }
 ]
